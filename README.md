@@ -1,0 +1,2 @@
+# kptest
+Learning Mode
